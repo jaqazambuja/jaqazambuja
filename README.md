@@ -1,48 +1,41 @@
 ﻿<!-- README.md -->
 
-<h1 align="center">🖤 Jaqueline • Android Developer 🖤</h1>
-
 <p align="center">
-  <i>Kotlin • Mobile • Engenharia de Computação</i>
+  <i>Android development • engenharia de computação 🌑</i>
 </p>
 
 ---
 
-### 🕯️ Sobre mim
+### Sobre
 
-Sou desenvolvedora **Android** (Kotlin, Jetpack, Compose, etc.) e estudante de **Engenharia de Computação**.  
-Gosto de código claro, arquitetura consistente e aplicações que se comportam bem em produção.  
-Prefiro **dark mode** — inclusive no código.
-
----
-
-### ⚙️ Tecnologias
-
-- 📱 **Android**
-    - Kotlin, Coroutines, Flow
-    - Jetpack Compose e XML
-    - Arquiteturas reativas (UDF, MVVM)
-
-- 🧪 **Estudando**
-    - iOS: Swift, SwiftUI, UIKit
-    - Arquitetura limpa e fluxo unidirecional de dados
-    - Testes, modularização e boas práticas em projetos maiores
-
-- 🧠 **Engenharia de Computação**
-    - Algoritmos e estruturas de dados
-    - Arquitetura de software
-    - Fundamentos de sistemas e computação
+Desenvolvedora **Android** (Kotlin, Jetpack, Compose, XML) e estudante de **Engenharia de Computação**.  
+Interesse em arquitetura de software, boas práticas em projetos mobile e código que se mantém estável com o tempo.
 
 ---
 
-### 🌑 Foco atual
+### Stack principal
 
-- Melhorar arquitetura em apps mobile
-- Escrever código sustentável a longo prazo
-- Automatizar o que for repetitivo
+- **Android**
+  - Kotlin, Coroutines, Flow
+  - Jetpack Compose e XML
+  - UDF, MVVM e padrões reativos
+
+- **Base de computação**
+  - Algoritmos e estruturas de dados
+  - Arquitetura de software
+  - Fundamentos de sistemas
 
 ---
 
-### 🕸️ Contato
+### Estudando no momento
 
-Se algum repositório for útil, sinta-se à vontade para abrir uma issue ou deixar uma ⭐.
+- iOS (Swift, SwiftUI, UIKit)
+- Arquitetura limpa e fluxo unidirecional de dados
+- Testes, modularização e automação
+
+---
+
+### Repositórios
+
+Este perfil concentra projetos de estudo, experimentos e algumas coisas de uso real.  
+Issues e PRs são bem-vindos.
